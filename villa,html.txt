@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Villa Senopati</title>
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; background-color: #f4f4f4; }
+        .container { max-width: 800px; margin: auto; background: white; padding: 20px; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); }
+        h1 { color: #333; }
+        img { width: 100%; border-radius: 10px; margin-top: 10px; }
+        .facility { text-align: left; margin-top: 20px; }
+        .contact { margin-top: 20px; font-size: 18px; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Selamat Datang di Villa Senopati</h1>
+        <p>Tempat sempurna untuk liburan nyaman dan tenang.</p>
+        
+        <img src="your-image-url.jpg" alt="Villa Senopati">
+        
+        <div class="facility">
+            <h2>Fasilitas:</h2>
+            <ul>
+                <li>Kolam Renang</li>
+                <li>Meja Billiard 9ft</li>
+                <li>Ruang Karaoke</li>
+                <li>Dapur Lengkap</li>
+                <li>Halaman Luas</li>
+                <li>4 Kamar dengan Kamar Mandi Dalam</li>
+                <li>Parkiran Luas</li>
+            </ul>
+        </div>
+        
+        <div class="contact">
+            <h2>Hubungi Kami</h2>
+            <p>📍 Alamat: Villa Senopati, Lokasi Anda</p>
+            <p>📞 Kontak: 0812-3456-7890</p>
+        </div>
+    </div>
+</body>
+</html>
